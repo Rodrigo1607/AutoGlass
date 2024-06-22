@@ -1,0 +1,49 @@
+﻿@{
+    ViewData["Title"] = "Cadastro de Produtos";
+}
+
+<div class="text-center">
+    
+    
+    <h1 class="display-4">Cadastrar Produtos!</h1>   
+</div>
+
+<form>
+    <div class="form-group">
+        <label for="codigo">Código:</label>
+        <input type="text" style="width:40%" class="form-control" placeholder="Digite o Código">
+    </div><br />
+    <div class="form-group">
+        <label for="descricao">Descrição:</label>
+        <input type="text" style="width:40%" class="form-control" placeholder="Digite a descrição">
+    </div><br/>
+
+    <div class="form-group">
+        <label for="situacao">Situação:</label>
+        <input type="text" style="width:40%" class="form-control" placeholder="Digite a situação">
+    </div><br />
+
+    <div class="form-group">
+        <label for="datafabricacao">Data de Fabricação:</label>
+        <input type="date" style="width:40%" class="form-control" placeholder="Data de Fabricação">
+    </div>
+    <br/>
+    <div class="form-group">
+        <label for="datavalidade">Data de Validade:</label>
+        <input type="date" style="width:40%" class="form-control" placeholder="Data de Fabricação">
+    </div><br/>
+    <div class="form-group">
+        <label for="codigofornecedor">Código do Fornecedor:</label>
+        <input type="text" style="width:40%" class="form-control" placeholder="Digite o código do Fornecedor">
+    </div><br />
+    <div class="form-group">
+        <label for="descricaofornecedor">Descrição do Fornecedor:</label>
+        <input type="text" style="width:40%" class="form-control" placeholder="Digite a descrição do Fornecedor">
+    </div><br />
+    <div class="form-group">
+        <label for="cnpjfornecedor">CNPJ do Fornecedor:</label>
+        <input type="text" style="width:40%" class="form-control" placeholder="Digite o CNPJ do Fornecedor">
+    </div><br />
+    <button type="submit" class="btn btn-primary">Adicionar</button>
+    <a class="btn btn-secondary" asp-controller="Produto" asp-action="Index" role="button">Voltar</a>
+</form>

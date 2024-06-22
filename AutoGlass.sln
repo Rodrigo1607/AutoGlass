@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoGlass", "AutoGlass\AutoGlass.csproj", "{EB61C6C8-3EBE-49CC-A4D2-220855796F14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoGlassWeb", "AutoGlassWeb\AutoGlassWeb.csproj", "{402CAA3A-9111-427E-A20D-A08C6BB38E16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB61C6C8-3EBE-49CC-A4D2-220855796F14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB61C6C8-3EBE-49CC-A4D2-220855796F14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB61C6C8-3EBE-49CC-A4D2-220855796F14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB61C6C8-3EBE-49CC-A4D2-220855796F14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{402CAA3A-9111-427E-A20D-A08C6BB38E16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{402CAA3A-9111-427E-A20D-A08C6BB38E16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{402CAA3A-9111-427E-A20D-A08C6BB38E16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{402CAA3A-9111-427E-A20D-A08C6BB38E16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {301A5CD5-EB90-4003-BA3D-95791BFED50E}
+	EndGlobalSection
+EndGlobal

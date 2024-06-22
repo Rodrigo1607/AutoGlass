@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Rodrigo\\AutoGlass\\AutoGlass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{402CAA3A-9111-427E-A20D-A08C6BB38E16}|AutoGlassWeb\\AutoGlassWeb.csproj|c:\\rodrigo\\autoglass\\autoglass\\autoglassweb\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{402CAA3A-9111-427E-A20D-A08C6BB38E16}|AutoGlassWeb\\AutoGlassWeb.csproj|solutionrelative:autoglassweb\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402CAA3A-9111-427E-A20D-A08C6BB38E16}|AutoGlassWeb\\AutoGlassWeb.csproj|c:\\rodrigo\\autoglass\\autoglass\\autoglassweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{402CAA3A-9111-427E-A20D-A08C6BB38E16}|AutoGlassWeb\\AutoGlassWeb.csproj|solutionrelative:autoglassweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402CAA3A-9111-427E-A20D-A08C6BB38E16}|AutoGlassWeb\\AutoGlassWeb.csproj|c:\\rodrigo\\autoglass\\autoglass\\autoglassweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{402CAA3A-9111-427E-A20D-A08C6BB38E16}|AutoGlassWeb\\AutoGlassWeb.csproj|solutionrelative:autoglassweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402CAA3A-9111-427E-A20D-A08C6BB38E16}|AutoGlassWeb\\AutoGlassWeb.csproj|c:\\rodrigo\\autoglass\\autoglass\\autoglassweb\\views\\produto\\atualizarproduto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{402CAA3A-9111-427E-A20D-A08C6BB38E16}|AutoGlassWeb\\AutoGlassWeb.csproj|solutionrelative:autoglassweb\\views\\produto\\atualizarproduto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402CAA3A-9111-427E-A20D-A08C6BB38E16}|AutoGlassWeb\\AutoGlassWeb.csproj|c:\\rodrigo\\autoglass\\autoglass\\autoglassweb\\views\\produto\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{402CAA3A-9111-427E-A20D-A08C6BB38E16}|AutoGlassWeb\\AutoGlassWeb.csproj|solutionrelative:autoglassweb\\views\\produto\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB61C6C8-3EBE-49CC-A4D2-220855796F14}|AutoGlass\\AutoGlass.csproj|c:\\rodrigo\\autoglass\\autoglass\\autoglass\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB61C6C8-3EBE-49CC-A4D2-220855796F14}|AutoGlass\\AutoGlass.csproj|solutionrelative:autoglass\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AtualizarProduto.cshtml",
+              "DocumentMoniker": "C:\\Rodrigo\\AutoGlass\\AutoGlass\\AutoGlassWeb\\Views\\Produto\\AtualizarProduto.cshtml",
+              "RelativeDocumentMoniker": "AutoGlassWeb\\Views\\Produto\\AtualizarProduto.cshtml",
+              "ToolTip": "C:\\Rodrigo\\AutoGlass\\AutoGlass\\AutoGlassWeb\\Views\\Produto\\AtualizarProduto.cshtml",
+              "RelativeToolTip": "AutoGlassWeb\\Views\\Produto\\AtualizarProduto.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T18:19:47.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Rodrigo\\AutoGlass\\AutoGlass\\AutoGlass\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "AutoGlass\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Rodrigo\\AutoGlass\\AutoGlass\\AutoGlass\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "AutoGlass\\Controllers\\ProdutoController.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAAAEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T18:20:04.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Criar.cshtml",
+              "DocumentMoniker": "C:\\Rodrigo\\AutoGlass\\AutoGlass\\AutoGlassWeb\\Views\\Produto\\Criar.cshtml",
+              "RelativeDocumentMoniker": "AutoGlassWeb\\Views\\Produto\\Criar.cshtml",
+              "ToolTip": "C:\\Rodrigo\\AutoGlass\\AutoGlass\\AutoGlassWeb\\Views\\Produto\\Criar.cshtml",
+              "RelativeToolTip": "AutoGlassWeb\\Views\\Produto\\Criar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T18:10:08.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Rodrigo\\AutoGlass\\AutoGlass\\AutoGlassWeb\\Views\\Produto\\Index.cshtml",
+              "RelativeDocumentMoniker": "AutoGlassWeb\\Views\\Produto\\Index.cshtml",
+              "ToolTip": "C:\\Rodrigo\\AutoGlass\\AutoGlass\\AutoGlassWeb\\Views\\Produto\\Index.cshtml",
+              "RelativeToolTip": "AutoGlassWeb\\Views\\Produto\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T18:06:16.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Rodrigo\\AutoGlass\\AutoGlass\\AutoGlassWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AutoGlassWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Rodrigo\\AutoGlass\\AutoGlass\\AutoGlassWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AutoGlassWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T18:01:51.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Rodrigo\\AutoGlass\\AutoGlass\\AutoGlassWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AutoGlassWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Rodrigo\\AutoGlass\\AutoGlass\\AutoGlassWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AutoGlassWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T16:58:46.558Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
