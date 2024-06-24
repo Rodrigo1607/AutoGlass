@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Rodrigo\\AutoGlass\\AutoGlass\\AutoGlassWeb\\AutoGlassWeb.csproj",
+      "projectUniqueName": "C:\\Users\\Thaiane\\Desktop\\Rodrigo\\AutoGlass\\AutoGlass\\AutoGlassWeb\\AutoGlassWeb.csproj",
       "projectName": "AutoGlassWeb",
-      "projectPath": "C:\\Rodrigo\\AutoGlass\\AutoGlass\\AutoGlassWeb\\AutoGlassWeb.csproj",
+      "projectPath": "C:\\Users\\Thaiane\\Desktop\\Rodrigo\\AutoGlass\\AutoGlass\\AutoGlassWeb\\AutoGlassWeb.csproj",
       "packagesPath": "C:\\Users\\Thaiane\\.nuget\\packages\\",
-      "outputPath": "C:\\Rodrigo\\AutoGlass\\AutoGlass\\AutoGlassWeb\\obj\\",
+      "outputPath": "C:\\Users\\Thaiane\\Desktop\\Rodrigo\\AutoGlass\\AutoGlass\\AutoGlassWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Thaiane\\AppData\\Roaming\\NuGet\\NuGet.Config",

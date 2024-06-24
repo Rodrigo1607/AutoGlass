@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lU1SCIlw1Xg=",
+  "dgSpecHash": "50s6rmsgswU=",
   "success": true,
-  "projectFilePath": "C:\\Rodrigo\\AutoGlass\\AutoGlass\\AutoGlass\\AutoGlass.csproj",
+  "projectFilePath": "C:\\Users\\Thaiane\\Desktop\\Rodrigo\\AutoGlass\\AutoGlass\\AutoGlass\\AutoGlass.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Thaiane\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Thaiane\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

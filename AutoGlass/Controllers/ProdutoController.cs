@@ -72,8 +72,6 @@ namespace AutoGlass.Controllers
                 return NotFound("Produto não encontrado");
             }
 
-            //produtos.DataValidade = produto.DataValidade ?? produtos.DataValidade;
-            //produtos.DataFabricacao = produto.DataFabricacao ?? produtos.DataFabricacao;
             if (produto.DataValidade != default(DateTime))
             {
                 produtos.DataValidade = produto.DataValidade;
@@ -104,6 +102,10 @@ namespace AutoGlass.Controllers
             if (produto == null)
             {
                 return NotFound("Produto não encontrado");
+            }
+            if (produto.Status != "Inativo")
+            {
+                return BadRequest("Só é possível deletar produtos que estão inativos");
             }
 
             _produtoRepository.DeletaProduto(produto);

@@ -9,55 +9,55 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AutoGlassWeb
 build_property.RootNamespace = AutoGlassWeb
-build_property.ProjectDir = C:\Rodrigo\AutoGlass\AutoGlass\AutoGlassWeb\
+build_property.ProjectDir = C:\Users\Thaiane\Desktop\Rodrigo\AutoGlass\AutoGlass\AutoGlassWeb\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Rodrigo\AutoGlass\AutoGlass\AutoGlassWeb
+build_property.MSBuildProjectDirectory = C:\Users\Thaiane\Desktop\Rodrigo\AutoGlass\AutoGlass\AutoGlassWeb
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Rodrigo/AutoGlass/AutoGlass/AutoGlassWeb/Views/Home/Index.cshtml]
+[C:/Users/Thaiane/Desktop/Rodrigo/AutoGlass/AutoGlass/AutoGlassWeb/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Rodrigo/AutoGlass/AutoGlass/AutoGlassWeb/Views/Home/Privacy.cshtml]
+[C:/Users/Thaiane/Desktop/Rodrigo/AutoGlass/AutoGlass/AutoGlassWeb/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Rodrigo/AutoGlass/AutoGlass/AutoGlassWeb/Views/Produto/ApagarConfirmacao.cshtml]
+[C:/Users/Thaiane/Desktop/Rodrigo/AutoGlass/AutoGlass/AutoGlassWeb/Views/Produto/ApagarConfirmacao.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b1xBcGFnYXJDb25maXJtYWNhby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Rodrigo/AutoGlass/AutoGlass/AutoGlassWeb/Views/Produto/AtualizarProduto.cshtml]
+[C:/Users/Thaiane/Desktop/Rodrigo/AutoGlass/AutoGlass/AutoGlassWeb/Views/Produto/AtualizarProduto.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b1xBdHVhbGl6YXJQcm9kdXRvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Rodrigo/AutoGlass/AutoGlass/AutoGlassWeb/Views/Produto/Criar.cshtml]
+[C:/Users/Thaiane/Desktop/Rodrigo/AutoGlass/AutoGlass/AutoGlassWeb/Views/Produto/Criar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b1xDcmlhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Rodrigo/AutoGlass/AutoGlass/AutoGlassWeb/Views/Produto/Index.cshtml]
+[C:/Users/Thaiane/Desktop/Rodrigo/AutoGlass/AutoGlass/AutoGlassWeb/Views/Produto/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Rodrigo/AutoGlass/AutoGlass/AutoGlassWeb/Views/Shared/Error.cshtml]
+[C:/Users/Thaiane/Desktop/Rodrigo/AutoGlass/AutoGlass/AutoGlassWeb/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Rodrigo/AutoGlass/AutoGlass/AutoGlassWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Thaiane/Desktop/Rodrigo/AutoGlass/AutoGlass/AutoGlassWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Rodrigo/AutoGlass/AutoGlass/AutoGlassWeb/Views/_ViewImports.cshtml]
+[C:/Users/Thaiane/Desktop/Rodrigo/AutoGlass/AutoGlass/AutoGlassWeb/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Rodrigo/AutoGlass/AutoGlass/AutoGlassWeb/Views/_ViewStart.cshtml]
+[C:/Users/Thaiane/Desktop/Rodrigo/AutoGlass/AutoGlass/AutoGlassWeb/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Rodrigo/AutoGlass/AutoGlass/AutoGlassWeb/Views/Shared/_Layout.cshtml]
+[C:/Users/Thaiane/Desktop/Rodrigo/AutoGlass/AutoGlass/AutoGlassWeb/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-r65e1ccemg

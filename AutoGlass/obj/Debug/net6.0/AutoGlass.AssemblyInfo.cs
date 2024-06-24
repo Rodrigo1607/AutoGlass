@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutoGlass")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9032871c8e2b8d0a350be359c3ecbe0af93e944a")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutoGlass")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoGlass")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

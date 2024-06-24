@@ -2440,11 +2440,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Rodrigo\\AutoGlass\\AutoGlass\\AutoGlass\\AutoGlass.csproj",
+      "projectUniqueName": "C:\\Users\\Thaiane\\Desktop\\Rodrigo\\AutoGlass\\AutoGlass\\AutoGlass\\AutoGlass.csproj",
       "projectName": "AutoGlass",
-      "projectPath": "C:\\Rodrigo\\AutoGlass\\AutoGlass\\AutoGlass\\AutoGlass.csproj",
+      "projectPath": "C:\\Users\\Thaiane\\Desktop\\Rodrigo\\AutoGlass\\AutoGlass\\AutoGlass\\AutoGlass.csproj",
       "packagesPath": "C:\\Users\\Thaiane\\.nuget\\packages\\",
-      "outputPath": "C:\\Rodrigo\\AutoGlass\\AutoGlass\\AutoGlass\\obj\\",
+      "outputPath": "C:\\Users\\Thaiane\\Desktop\\Rodrigo\\AutoGlass\\AutoGlass\\AutoGlass\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Thaiane\\AppData\\Roaming\\NuGet\\NuGet.Config",
