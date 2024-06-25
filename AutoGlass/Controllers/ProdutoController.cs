@@ -51,6 +51,10 @@ namespace AutoGlass.Controllers
         [HttpPost]
         public async Task<IActionResult> Criar(Produto produto)
         {
+            if (produto.DataFabricacao != default(DateTime) && produto.DataValidade != default(DateTime) && produto.DataFabricacao > produto.DataValidade)
+            {
+                return BadRequest("Data de fabricação não pode ser maior que a data de validade");
+            }
             var mensagem = produto.Validar();
             if (string.IsNullOrEmpty(mensagem))
             {
@@ -67,6 +71,11 @@ namespace AutoGlass.Controllers
         public async Task<IActionResult> AtualizarProduto(int id, Produto produto)
         {
             var produtos = await _produtoRepository.BuscaProdutoPorId(id);
+            if (produto.DataFabricacao != default(DateTime) && produto.DataValidade != default(DateTime) && produto.DataFabricacao > produto.DataValidade)
+            {
+                return BadRequest("Data de fabricação não pode ser maior que a data de validade");
+            }
+
             if (produtos == null)
             {
                 return NotFound("Produto não encontrado");
